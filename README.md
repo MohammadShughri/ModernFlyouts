@@ -145,7 +145,7 @@ Next, we must thank **[@riverar](https://github.com/riverar)** for accepting our
 
 ## Beta Builds
 
-The ability to signup for beta builds has been temporarily removed while we work on a better way to release and manage them. Beta builds will still occasionally be available to download fron the releases tab on github. Thankyou to everyone who helps us test new releases before they go public.
+The ability to signup for beta builds has been temporarily removed while we work on a better way to release and manage them. Beta builds will still occasionally be available to download fron the releases tab on github. Thank you to everyone who helps us test new releases before they go public.
 
 ## Screenshots
 
