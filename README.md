@@ -1,6 +1,7 @@
+![ModernFlyouts](ModernFlyouts/Assets/Images/ModernFlyouts_128.png)
 # ModernFlyouts
 
-### An open source, modern, and **Fluent Design-based** replacement for the old **Metro-themed** flyouts present in **Windows 10**.
+#### An open source, modern, and **Fluent Design-based** replacement for the old **Metro-themed** flyouts present in **Windows 10**.
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft-Store-blue?style=flat&logo=microsoft)](https://www.microsoft.com/store/apps/9MT60QV066RP?ocid=badge)
 [![Github All Releases](https://img.shields.io/github/downloads/ModernFlyouts-Community/ModernFlyouts/total.svg?style=flat&logo=github)](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases)
@@ -8,7 +9,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-channel-blue?style=flat&logo=telegram)](https://t.me/modernflyouts)
 [![Discord](https://discordapp.com/api/guilds/772367965307404298/widget.png)](https://discord.gg/TcYskeyaYE)
 
-![ModernFlyouts](ModernFlyouts/Assets/Images/ModernFlyouts_128.png)
 
 [Overview](#overview) • [Features](#features) • [System Requirements](#system-requirements) • [Installation](#installation) • [Connect with us](#connect-with-us) • [Contributing](#contributing) • [Screenshots](#screenshots)
 
@@ -60,8 +60,6 @@ All the distribution methods mentioned above are supported, however installing t
 
 <a href='https://www.microsoft.com/store/apps/9MT60QV066RP?ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Microsoft Store' width='160'/></a>
 
-You can [sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALdxYU9UQU9GMzQ2Rk40MDJFSkU5UzRKTVg2Nk1PTy4u) for **Beta Builds** of ModernFlyouts which will include new experimental features.
-
 **GitHub:**
 
 1. Go to the [latest release on the Releases page](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases/latest).
@@ -73,6 +71,10 @@ You can [sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIk
 _please note that due to how winget processes package updates, updates may take **longer** to be released to winget_.
 
 `winget install --id=ModernFlyouts.ModernFlyouts -e`
+
+**Chocolatey**
+
+ModernFlyouts is **Unofficially** available to install via Chocolatey [Here](https://chocolatey.org/packages/modernflyouts), however as this is not maintained by us we can not verify it's security or being up to date.
 
 ## Connect with us
 You can join our [Discord Server](https://discord.gg/TcYskeyaYE) or [Telegram Group](https://t.me/ModernFlyouts) to connect with us. By doing so, we can have off-topic conversations, news about this app, development previews and providing & collecting feedback (people who don't have a GitHub account may be benefitted).
@@ -99,7 +101,7 @@ Next, we must thank **[@riverar](https://github.com/riverar)** for accepting our
 - **[Samuel12321](https://github.com/Samuel12321/)** - Maintainer/co-owner of this repository and application publisher (including **Microsoft Store**).
 - **[ShankarBUS](https://github.com/ShankarBUS/)** - Ex-Maintainer/co-owner & Developer.
 - **[Cyberdroid1](https://github.com/Cyberdroid1)** - Maintainer.
-- **[ADeltaX](https://github.com/ADeltaX/)** - Our savior! Helps us at critical times.
+- **[ADeltaX](https://github.com/ADeltaX/)** - Maintainer & Developer - Our savior! Helps us at critical times.
 
 
 ### Our Contributors 💗💕
@@ -139,6 +141,11 @@ Next, we must thank **[@riverar](https://github.com/riverar)** for accepting our
 - [NAudio](https://github.com/naudio/NAudio)
 - [ModernWpf](https://github.com/Kinnara/ModernWpf) (Inspired the name **Modern**Flyouts)
 - [Hardcodet.NotifyIcon.Wpf](https://github.com/hardcodet/wpf-notifyicon)
+
+
+## Beta Builds
+
+The ability to signup for beta builds has been temporarily removed while we work on a better way to release and manage them. Beta builds will still occasionally be available to download fron the releases tab on github. Thankyou to everyone who helps us test new releases before they go public.
 
 ## Screenshots
 
